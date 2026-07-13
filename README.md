@@ -1,2 +1,15 @@
-# Microalgae-project
-This pipeline could be help microalgae scientists to calibrate the OD 680 curve to evaluate the algae growth and their association with potential axenical method using penicilin-streptomicin hybrid antibiotic
+# Microalgae Growth Analysis
+
+Pipeline for OD680 growth curve analysis in microalgae experiments.
+
+## Features
+- Excel input support
+- Automated growth curve plotting
+- Multiple treatment comparison
+- Publication-ready figures
+
+## Input files
+- All.xlsx
+
+## Author
+Bernardo Cintra
